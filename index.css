@@ -1,0 +1,78 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body
+{
+    background-color: #A3D5D3;
+}
+
+.header
+{
+    text-align: center;
+    line-height: 2.7rem;
+  
+}
+
+.header p{
+    font-size: 1.5rem;
+
+}
+
+
+  .image
+  {
+    width: 600px;
+    height: 30px;
+    background: url("maxresdefault.jpg");
+  }
+
+  .main
+  {
+    line-height: 1.5rem;
+  }
+
+  .timeline #first-heading{
+  
+    font-size: 1.80rem;
+    margin: 15px 0px;
+    display: block;
+  }
+
+  .timeline #first-heading{
+  font-size: 1.6rem;
+  }
+
+  .timeline #sec-heading{
+  font-size: 1.3rem;
+  }
+
+  ul{
+    padding: 0px 50px;
+  }
+
+  .main a{
+    text-decoration: none;
+    color:blue;
+  }
+
+  .main a:hover{
+    text-decoration: underline;
+    color: violet;
+  }
+
+  .footer
+  {
+    background-color: #D3D3D3;
+    margin: 25px 69px;
+    padding: 29px 34px;
+  }
+
+  figcaption
+  {
+    margin-bottom: 17px;
+  }
